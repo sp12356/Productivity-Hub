@@ -13,6 +13,6 @@ The Productivity Landing Page offers a range of tools designed to improve your e
 
 ### Prerequisites
 
-This project uses npm for dependency management. Install npm if you haven't already:
+This project uses npm for dependency management. Install npm if you haven't already
 
 
