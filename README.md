@@ -1,5 +1,4 @@
 # Productivity-Hub
-A Modern Landing Page with Free Productivity Features
 
 ## Description
 Welcome to the repository for the Productivity Landing Page—a free resource designed to enhance your productivity with a variety of tools. 
